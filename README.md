@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kritesh Timsina</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h1 align="left">Hi 👋, I'm Kritesh Timsina</h1>
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&lines=Web+Developer;Passionate+Musician;Tech+enthusiast"></a>
+</p>
+
+## <picture><img loading="eager" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 - 🔭 I’m currently working on **Kabya - A Lyrics App**
 
