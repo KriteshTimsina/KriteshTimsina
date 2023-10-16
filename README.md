@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Kabya - A Lyrics App**
 
-- 👨‍💻 All of my projects are available at [kriteshtimsina.com.np](kriteshtimsina.com.np)
+- 👨‍💻 All of my projects are available at [kriteshtimsina.com.np](https://kriteshtimsina.com.np)
 
 - 📫 How to reach me **kriteshtimsina55@gmail.com**
 
