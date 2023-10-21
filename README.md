@@ -32,6 +32,8 @@
 ## 📖 Learning
 [![Learning](https://skillicons.dev/icons?i=nodejs,express,prisma,postgres)](#)
 
+[![An image of @kriteshtimsina's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kriteshtimsina)](https://holopin.io/@kriteshtimsina)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kriteshtimsina" alt="kriteshtimsina" /></a> &nbsp; </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kriteshtimsina&show_icons=true&locale=en&layout=compact" alt="kriteshtimsina" /></p>
 
