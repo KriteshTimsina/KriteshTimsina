@@ -5,11 +5,9 @@
 
 ## <picture><img loading="eager" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 🔭 I’m currently working on **Kabya - A Lyrics App**
+- 🔭 I’m currently working on **Learning management system**
 
 - 🌱 I’m currently learning **Backend development**
-
-- 👯 I’m looking to collaborate on **Kabya - A Lyrics App**
 
 - 👨‍💻 All of my projects are available at [kriteshtimsina.com.np](https://kriteshtimsina.com.np)
 
