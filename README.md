@@ -23,7 +23,7 @@
 ## ⚙️ Languages and Tools
 <p align="left">
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,next,git" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,sass,tailwind,figma,redux,git" />
 </a>
 </p>
 
