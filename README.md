@@ -32,11 +32,13 @@
 
 [![An image of @kriteshtimsina's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kriteshtimsina)](https://holopin.io/@kriteshtimsina)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kriteshtimsina" alt="kriteshtimsina" /></a> &nbsp; </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kriteshtimsina&show_icons=true&locale=en&layout=compact" alt="kriteshtimsina" /></p>
+<a href="https://chromedino.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dino-dark.gif" />
+    <img alt="https://kriteshtimsina.com.np" src="./dino-dark.gif" />
+  </picture>
+</a>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kriteshtimsina&" alt="kriteshtimsina" /></p>
 
 
 
